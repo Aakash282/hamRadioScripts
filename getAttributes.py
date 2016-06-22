@@ -11,7 +11,7 @@ apiHost = 'https://developer.echonest.com/api/v4/track/profile?'
 tracks = [] # holds input
 c = 0 # counter
 keyChoice = 0
-apiKey = ['5MGJPPFFJLQRSITZF', 'ULUECAILWIK1KJFED', 'VBFP0ICNRRIKKKQO6']
+apiKey = ['key1', 'key2', 'key3']
 
 # load in the data
 with open(input_file) as f:
